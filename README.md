@@ -4,7 +4,6 @@
 
 Skills: Adobe Photoshop | C | C# | Sketchup | Blender | VS Code | IntelliJ
 
-- 🔭 I’m currently working on this page. 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SammyJaneBS&repo=github-readme-stats)](https://github.com/SammyJaneBS/github-readme-stats)
 
@@ -34,25 +33,24 @@ I'm a Computer Engineering Student 💻, and a Designer 🎨!
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/SamanthSeblos/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Sammy | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+<a href="https://www.instagram.com/seblossamantha/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Sammy | Instagram" width="21px"/></a>
+<a href="https://twitter.com/yipeeSammy"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/twitter.svg" alt="Sammy | Twitter" width="21px"/></a>
+
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
 
 - My old projects
-- Restaurant Recommendation App (React-Native)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
+- Website (Working on it soon...)
 - My next blog
-- My CSS skill
+- My CSS, JavaScript skill 
 
 ## 🌱 I'm currently learning
 
 - 📱 React Native
 - Firebase
-- React Context API
-- Styled Components  
+- Java
 
 ## 💼 Technical Skills
 
