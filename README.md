@@ -13,11 +13,13 @@ Skills: Adobe Photoshop | C | C# | Sketchup | Blender | VS Code | IntelliJ
 
 - 🔭 I’m currently working on this page. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SammyJaneBS)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SammyJaneBS&repo=github-readme-stats)](https://github.com/SammyJaneBS/github-readme-stats)
 
+![Sammy GitHub stats](https://github-readme-stats.vercel.app/api?username=SammyJaneBS&show_icons=true&theme=radical)
+//[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SammyJaneBS&layout=compact)](https://github.comSammyJaneBS/github-readme-stats)
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>(https://www.linkedin.com/in/Samantha Jane Seblos/)  
-
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>(https://www.facebook.com/Samantha Seblos)  
+<a href="https://twitter.com/yipeeSammy">
+<img align-"Left"  width="25px" src="http://i.imgur.com/wWzX9uB.png"/>
+</a>
 
 
