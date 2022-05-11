@@ -1,11 +1,6 @@
 
 
-![](https://github.com/SammyJaneBS/SammyJaneBS/blob/main/Banner.jpg)
-
 Skills: Adobe Photoshop | C | C# | Sketchup | Blender | VS Code | IntelliJ
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SammyJaneBS&repo=github-readme-stats)](https://github.com/SammyJaneBS/github-readme-stats)
 
 ![Sammy GitHub stats](https://github-readme-stats.vercel.app/api?username=SammyJaneBS&show_icons=true&theme=radical)
 
@@ -13,7 +8,7 @@ Skills: Adobe Photoshop | C | C# | Sketchup | Blender | VS Code | IntelliJ
 
 
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/SammyJaneBS/SammyJaneBS/blob/main/Banner.jpg" alt="my banner"></a>
 </p>
 
 <h3 align="center">
@@ -34,7 +29,7 @@ I'm a Computer Engineering Student 💻, and a Designer 🎨!
 
 <a href="https://www.linkedin.com/in/SamanthSeblos/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Sammy | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/seblossamantha/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Sammy | Instagram" width="21px"/></a>
-<a href="https://twitter.com/yipeeSammy"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/twitter.svg" alt="Sammy | Twitter" width="21px"/></a>
+<a href="https://twitter.com/yipeeSammy"><img align="left" src="https://github.com/SammyJaneBS/SammyJaneBS/blob/main/164-1640357_fb-tw-black-and-white-snapchat-logo.png" width="21px"/></a>
 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
