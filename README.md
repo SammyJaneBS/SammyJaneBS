@@ -12,6 +12,10 @@ Hi there, I'm Samantha but you can call me Sammy! 👋
 I'm a Computer Engineering Student 💻, and a Designer 🎨!
 </h2> 
 
+<h3 align="center">
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=SammyJaneBS.SammyJaneBS)]
+  </h3>
+
 #### 👀 I’m interested in doing some things that are still new to me. And I'm always up to a challenge.
 👀 I’m interested in doing some things that are still new to me. And I'm always up to a challenge.
 
@@ -45,12 +49,12 @@ I'm a Computer Engineering Student 💻, and a Designer 🎨!
 </br>
 
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
-![](https://img.shields.io/badge/Tools-C#-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-SketchUp-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-Blender-informational?style=flat&logo=netlify&color=00C7B7)
-![](https://img.shields.io/badge/Tools-AdobePhotoshop-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-IntelliJ-informational?style=flat&logo=Git&color=F05032)
+![](https://img.shields.io/badge/Tools-C#-informational?style=flat&logo=C#&color=CB3837)
+![](https://img.shields.io/badge/Tools-SketchUp-informational?style=flat&logo=Sketchup&color=430098)
+![](https://img.shields.io/badge/Tools-Blender-informational?style=flat&logo=Blender&color=00C7B7)
+![](https://img.shields.io/badge/Tools-AdobePhotoshop-informational?style=flat&logo=Adobephotoshop&color=F05032)
+![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=VSCode&color=F05032)
+![](https://img.shields.io/badge/Tools-IntelliJ-informational?style=flat&logo=IntelliJ&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 
@@ -61,7 +65,6 @@ I'm a Computer Engineering Student 💻, and a Designer 🎨!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SammyJaneBS&layout=compact)](https://github.com/SammyJaneBS)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=SammyJaneBS.SammyJaneBS)]
-view rawREADME.txt hosted with ❤ by GitHub
+
 
 
