@@ -14,7 +14,7 @@ I'm a Computer Engineering Student 💻, and a Designer 🎨!
 
 <h3 align="center">
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=SammyJaneBS.SammyJaneBS)]
-  </h3>
+ </h3>
 
 #### 👀 I’m interested in doing some things that are still new to me. And I'm always up to a challenge.
 👀 I’m interested in doing some things that are still new to me. And I'm always up to a challenge.
@@ -35,7 +35,7 @@ I'm a Computer Engineering Student 💻, and a Designer 🎨!
 
 - My old projects
 - Website (Working on it soon...)
-- My next blog
+- My blog
 - My CSS, JavaScript skill 
 
 ## 🌱 I'm currently learning
