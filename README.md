@@ -13,6 +13,8 @@ Skills: Adobe Photoshop | C | C# | Sketchup | Blender | VS Code | IntelliJ
 
 - 🔭 I’m currently working on this page. 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SammyJaneBS)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>(https://www.linkedin.com/in/Samantha Jane Seblos/)  
 
