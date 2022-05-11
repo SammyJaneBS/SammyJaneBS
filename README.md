@@ -12,9 +12,8 @@ Hi there, I'm Samantha but you can call me Sammy! 👋
 I'm a Computer Engineering Student 💻, and a Designer 🎨!
 </h2> 
 
-<h4 align="center">
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=SammyJaneBS.SammyJaneBS)]
- </h4>
+[Visitors](https://visitor-badge.glitch.me/badge?page_id=SammyJaneBS.SammyJaneBS)(https://github.com/SammyJaneBS)
+
 
 #### 👀 I’m interested in doing some things that are still new to me. And I'm always up to a challenge.
 👀 I’m interested in doing some things that are still new to me. And I'm always up to a challenge.
