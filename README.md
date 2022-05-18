@@ -48,7 +48,8 @@ I'm a Computer Engineering Student 💻, and a Designer 🎨!
 </br>
 
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
-![](https://img.shields.io/badge/Tools-C#-informational?style=flat&logo=C#&color=CB3837)
+![](https://img.shields.io/badge/Programming-C#-informational?style=flat&logo=C#&color=CB3837)
+![](https://img.shields.io/badge/Programming-C-informational?style=flat&logo=C#&color=CB3837)
 ![](https://img.shields.io/badge/Tools-SketchUp-informational?style=flat&logo=Sketchup&color=430098)
 ![](https://img.shields.io/badge/Tools-Blender-informational?style=flat&logo=Blender&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-AdobePhotoshop-informational?style=flat&logo=Adobephotoshop&color=F05032)
