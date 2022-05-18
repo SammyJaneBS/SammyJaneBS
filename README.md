@@ -48,7 +48,7 @@ I'm a Computer Engineering Student 💻, and a Designer 🎨!
 </br>
 
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
-![](https://img.shields.io/badge/Programming-C #-informational?style=flat&logo=C#&color=CB3837)
+![](https://img.shields.io/badge/Programming-C#-informational?style=flat&logo=C#&color=CB3837)
 ![](https://img.shields.io/badge/Programming-C-informational?style=flat&logo=C#&color=CB3837)
 ![](https://img.shields.io/badge/Programming-C++-informational?style=flat&logo=C#&color=CB3837)
 ![](https://img.shields.io/badge/Tools-SketchUp-informational?style=flat&logo=Sketchup&color=430098)
@@ -61,10 +61,9 @@ I'm a Computer Engineering Student 💻, and a Designer 🎨!
 
 ## 📈 GitHub Stats 
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/SammyJaneBS?cardType=github&theme=jolly)](https://git.io/awesome-stats-card)
 
-![Sammy GitHub stats](https://github-readme-stats.vercel.app/api?username=SammyJaneBS&show_icons=true&theme=radical)
-
-[![Sammy](https://github-readme-stats.vercel.app/api/top-langs/?username=SammyJaneBS&layout=compact)](https://github.com/SammyJaneBS)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SammyJaneBS)](https://github.com/SammyJaneBS/github-readme-stats)
 
 
 
