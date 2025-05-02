@@ -8,10 +8,6 @@
 Hi there, I'm Samantha but you can call me Sammy! 👋
 </h3>
 
-<h2 align="center">
-I'm a Computer Engineering Student 💻, and a Designer 🎨!
-</h2> 
-
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=SammyJaneBS.SammyJaneBS)](https://github.com/SammyJaneBS)
 
 
@@ -31,18 +27,6 @@ I'm a Computer Engineering Student 💻, and a Designer 🎨!
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working on
-
-- My old projects
-- Website (Working on it soon...)
-- My blog
-- My CSS, JavaScript skill 
-
-## 🌱 I'm currently learning
-
-- 📱 React Native
-- Firebase
-- Java
 
 ## 💼 Technical Skills
 
