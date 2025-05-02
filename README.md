@@ -1,8 +1,5 @@
 
 
-<p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/SammyJaneBS/SammyJaneBS/blob/main/Banner.jpg" alt="my banner"></a>
-</p>
 
 <h3 align="center">
 Hi there, I'm Samantha but you can call me Sammy! 👋
@@ -10,13 +7,6 @@ Hi there, I'm Samantha but you can call me Sammy! 👋
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=SammyJaneBS.SammyJaneBS)](https://github.com/SammyJaneBS)
 
-
-
-#### 👀 I’m interested in doing some things that are still new to me. And I'm always up to a challenge.
-👀 I’m interested in doing some things that are still new to me. And I'm always up to a challenge.
-
-🌱 I’m currently learning some Front-end and Back-end and also open to other new lessons that is also a very interesting topic for me.
-💞️I’m looking to collaborate on anyone who is willing to teach me and I'm also willing to adapt any changes in me. 
 
 ### 🤝 Connect with me:
 
@@ -43,12 +33,6 @@ Hi there, I'm Samantha but you can call me Sammy! 👋
 ![](https://img.shields.io/badge/Tools-IntelliJ-informational?style=flat&logo=IntelliJ&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-
-## 📈 GitHub Stats 
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/SammyJaneBS?cardType=github&theme=jolly)](https://git.io/awesome-stats-card)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SammyJaneBS)](https://github.com/SammyJaneBS/github-readme-stats)
 
 
 
